@@ -2,6 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>STIXGeneral.otf</string>
+		<string>STIXGeneralBol.otf</string>
+		<string>STIXGeneralBolIta.otf</string>
+		<string>STIXGeneralItalic.otf</string>
+		<string>STIXGeneralItalic.otf</string>
+		<string>STIXIntDBol.otf</string>
+		<string>STIXIntDReg.otf</string>
+		<string>STIXIntSmBol.otf</string>
+		<string>STIXIntSmReg.otf</string>
+		<string>STIXIntUpBol.otf</string>
+		<string>STIXIntUpDBol.otf</string>
+		<string>STIXIntUpDReg.otf</string>
+		<string>STIXIntUpReg.otf</string>
+		<string>STIXIntUpSmBol.otf</string>
+		<string>STIXIntUpSmReg.otf</string>
+		<string>STIXNonUni.otf</string>
+		<string>STIXNonUniBol.otf</string>
+		<string>STIXNonUniBolIta.ocf</string>
+		<string>STIXNonUniIta.otf</string>
+		<string>STIXSizFiveSymReg.otf</string>
+		<string>STIXSizFourSymBol.otf</string>
+		<string>STIXSizFourSymReg.otf</string>
+		<string>STIXSizOneSymBol.otf</string>
+		<string>STIXSizOneSymReg.otf</string>
+		<string>STIXSizThreeSymBol.otf</string>
+		<string>STIXSizThreeSymReg.otf</string>
+		<string>STIXSizTwoSymBol.otf</string>
+		<string>STIXSizTwoSymReg.otf</string>
+		<string>STIXVar.otf</string>
+		<string>STIXVarBol.otf</string>
+		<string>DIESEL.TTF</string>
+		<string>Moksha.ttf</string>
+	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -26,12 +61,12 @@
 	<true/>
 	<key>NSMainNibFile</key>
 	<string>MainWindow</string>
-     <key>UISupportedInterfaceOrientations</key>
-     <array>
-          <string>UIInterfaceOrientationPortrait</string>
-          <string>UIInterfaceOrientationPortraitUpsideDown</string>
-          <string>UIInterfaceOrientationLandscapeLeft</string>
-          <string>UIInterfaceOrientationLandscapeRight</string>
-     </array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
 </dict>
 </plist>

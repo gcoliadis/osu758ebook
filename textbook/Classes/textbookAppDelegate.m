@@ -23,12 +23,15 @@
 	// Override point for customization after application launch.
     
     [window makeKeyAndVisible];
-	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:@"http://reddit.com"]]];
+	//[webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:@"http://www.reddit.com"]]];
+	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
 	
 	//diasble Scrolling "Bounce"
-	for (id subview in webView.subviews)
-		if ([[subview class] isSubclassOfClass: [UIScrollView class]])
+	for (id subview in webView.subviews) {
+		if ([[subview class] isSubclassOfClass: [UIScrollView class]]) {
 			((UIScrollView *)subview).bounces = NO;
+		}
+	}
 	
     return YES;
 }
