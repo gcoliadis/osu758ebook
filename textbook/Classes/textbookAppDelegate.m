@@ -36,9 +36,10 @@
     return YES;
 }
 
-// WebView is finished loading
-
-
+-(IBAction)goHome
+{
+	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
+}
 
 
 - (void)applicationWillResignActive:(UIApplication *)application {

@@ -1,7 +1,7 @@
 Ttextbook
 v7
 r0
-t311028657.984449
+t311112723.754145
 cCheck dependencies
 cProcessInfoPlistFile /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/Info.plist textbook-Info.plist
 cCpResource build/Debug-iphonesimulator/textbook.app/alarm.png ../../Downloads/iphone_toolbar_icons/standard/alarm.png
@@ -801,15 +801,15 @@ t1257195616
 s1196
 
 N/Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.h
-c000000004CCB80410000000000000197
-t1288405057
-s407
+c000000004CDAFC8400000000000001AB
+t1289419908
+s427
 i<UIKit/UIKit.h>
 
 N/Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m
-c000000004CD2C600000000000000089E
-t1288881664
-s2206
+c000000004CDAFE28000000000000092F
+t1289420328
+s2351
 i"textbookAppDelegate.h"
 
 N/Users/Gus/Dropbox/textbook/ElementsofEuclid_AF.jpg
@@ -818,9 +818,9 @@ t1288811372
 s18573
 
 N/Users/Gus/Dropbox/textbook/MainWindow.xib
-c000000004CD2C5F20000000000007522
-t1288881650
-s29986
+c000000004CDAFBE300000000000076E4
+t1289419747
+s30436
 
 N/Users/Gus/Dropbox/textbook/PaperTile.jpg
 c000000004CD19DC00000000000006B41
@@ -973,11 +973,11 @@ t1272596814
 s14988
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app
-t1288904103
+t1289419915
 s3570
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM
-t1288881670
+t1289419915
 s102
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/DIESEL.TTF
@@ -993,8 +993,8 @@ t1288817636
 s1538
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/MainWindow.nib
-t1288881668
-s1891
+t1289419749
+s1893
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/Moksha.ttf
 t1288817637
@@ -1381,8 +1381,8 @@ t1288490859
 s613
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook
-t1288881669
-s16216
+t1289419915
+s16336
 
 N/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/trash.png
 t1288490859
@@ -1406,8 +1406,8 @@ t1288103542
 s241
 
 N/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o
-t1288881668
-s28436
+t1289419915
+s29288
 
 N/Users/Gus/Dropbox/textbook/index.html
 c000000004CD31DA00000000000000426
@@ -1509,7 +1509,7 @@ s2436
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies311028657#311028657#0(0"0(0#1#0"4231240#0"0#
+lSLF07#2@18"Check dependencies311112723#311112723#0(0"0(0#1#0"2499686336#0"0#
 
 CCompileC build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/main.o /Users/Gus/Dropbox/textbook/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s309796344.244698
@@ -1538,8 +1538,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@47"Compile /Users/gcoliadi/Dropbox/textbook/main.m309646869#309646870#0(0"0(0#0#39"/Users/gcoliadi/Dropbox/textbook/main.m8611925504#1909"    cd /Users/gcoliadi/Dropbox/textbook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-generated-files.hmap -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-own-target-headers.hmap -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-all-target-headers.hmap -iquote /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-project-headers.hmap -F/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator -I/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/include -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources/i386 -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources -include /var/folders/dP/dPKV0Q5WFsSEd1B38VPDGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/textbook_Prefix-fcnkrqqzspxgtfbbhaibcvhmbxot/textbook_Prefix.pch -c /Users/gcoliadi/Dropbox/textbook/main.m -o /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/main.o0#
 
 CCompileC build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o /Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s310574468.068535
-e310574468.300625
+s311112715.083754
+e311112715.276330
 r1
 xCompileC
 xbuild/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o
@@ -1548,7 +1548,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m310574468#310574468#0(0"0(0#0#57"/Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m2499686336#1954"    cd /Users/Gus/Dropbox/textbook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-generated-files.hmap -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-own-target-headers.hmap -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-all-target-headers.hmap -iquote /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-project-headers.hmap -F/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator -I/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/include -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources/i386 -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources -include /var/folders/Cb/CbD8OHHEGfWX5DcmqsvITU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/textbook_Prefix-hehwgbmhhbqhctcxgmlbjedmfwvv/textbook_Prefix.pch -c /Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m -o /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o0#
+lSLF07#2@65"Compile /Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m311112715#311112715#0(0"0(0#0#57"/Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m2499686336#1954"    cd /Users/Gus/Dropbox/textbook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-generated-files.hmap -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-own-target-headers.hmap -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-all-target-headers.hmap -iquote /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-project-headers.hmap -F/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator -I/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/include -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources/i386 -I/Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources -include /var/folders/Cb/CbD8OHHEGfWX5DcmqsvITU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/textbook_Prefix-hehwgbmhhbqhctcxgmlbjedmfwvv/textbook_Prefix.pch -c /Users/Gus/Dropbox/textbook/Classes/textbookAppDelegate.m -o /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o0#
 
 CCompileC build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o /Users/gcoliadi/Dropbox/textbook/Classes/textbookAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s309647175.772617
@@ -1564,12 +1564,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@70"Compile /Users/gcoliadi/Dropbox/textbook/Classes/textbookAppDelegate.m309647175#309647176#0(0"0(0#0#62"/Users/gcoliadi/Dropbox/textbook/Classes/textbookAppDelegate.m8621075296#1947"    cd /Users/gcoliadi/Dropbox/textbook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-generated-files.hmap -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-own-target-headers.hmap -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-all-target-headers.hmap -iquote /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-project-headers.hmap -F/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator -I/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/include -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources/i386 -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources -include /var/folders/dP/dPKV0Q5WFsSEd1B38VPDGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/textbook_Prefix-fcnkrqqzspxgtfbbhaibcvhmbxot/textbook_Prefix.pch -c /Users/gcoliadi/Dropbox/textbook/Classes/textbookAppDelegate.m -o /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbookAppDelegate.o0#
 
 CCompileXIB /Users/Gus/Dropbox/textbook/MainWindow.xib
-s310574466.993630
-e310574468.066609
+s311112549.360138
+e311112550.028712
 r1
 xCompileXIB
 x/Users/Gus/Dropbox/textbook/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib310574466#310574468#0(0"0(0#0#42"/Users/Gus/Dropbox/textbook/MainWindow.xib2499686336#600"    cd /Users/Gus/Dropbox/textbook    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/MainWindow.nib /Users/Gus/Dropbox/textbook/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+lSLF07#2@25"CompileXIB MainWindow.xib311112549#311112550#0(0"0(0#0#42"/Users/Gus/Dropbox/textbook/MainWindow.xib2499686336#600"    cd /Users/Gus/Dropbox/textbook    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/MainWindow.nib /Users/Gus/Dropbox/textbook/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
 
 CCompileXIB /Users/gcoliadi/Dropbox/textbook/MainWindow.xib
 s309657933.751454
@@ -3050,13 +3050,13 @@ x../../Downloads/iphone_toolbar_icons/standard/world.png
 lSLF07#2@60"Copy ../../Downloads/iphone_toolbar_icons/standard/world.png310183659#310183660#0(0"0(0#0#83"/Users/Gus/Dropbox/textbook/../../Downloads/iphone_toolbar_icons/standard/world.png2499686336#529"    cd /Users/Gus/Dropbox/textbook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Gus/Dropbox/textbook/../../Downloads/iphone_toolbar_icons/standard/world.png /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app0#
 
 CGenerateDSYMFile /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook
-s310574469.638789
-e310574470.050754
+s311112715.348840
+e311112715.396216
 r1
 xGenerateDSYMFile
 x/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM
 x/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook
-lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/textbook.app.dSYM build/Debug-iphonesimulator/textbook.app/textbook310574469#310574470#0(0"0(0#0#77"/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook2499686336#415"    cd /Users/Gus/Dropbox/textbook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook -o /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM0#
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/textbook.app.dSYM build/Debug-iphonesimulator/textbook.app/textbook311112715#311112715#0(0"0(0#0#77"/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook2499686336#415"    cd /Users/Gus/Dropbox/textbook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook -o /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM0#
 
 CGenerateDSYMFile /Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM /Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook
 s309647177.119757
@@ -3068,14 +3068,14 @@ x/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textb
 lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/textbook.app.dSYM build/Debug-iphonesimulator/textbook.app/textbook309647177#309647177#0(0"0(0#0#82"/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook8601467104#368"    cd /Users/gcoliadi/Dropbox/textbook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook -o /Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app.dSYM0#
 
 CLd /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook normal i386
-s310574468.300755
-e310574469.638607
+s311112715.276449
+e311112715.348710
 r1
 xLd
 x/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook
 xnormal
 xi386
-lSLF07#2@82"Link /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook310574468#310574469#0(0"0(0#0#0"2499686336#912"    cd /Users/Gus/Dropbox/textbook    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator -F/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator -filelist /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbook.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook0#
+lSLF07#2@82"Link /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook311112715#311112715#0(0"0(0#0#0"2499686336#912"    cd /Users/Gus/Dropbox/textbook    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator -F/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator -filelist /Users/Gus/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/Objects-normal/i386/textbook.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook0#
 
 CLd /Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app/textbook normal i386
 s309647176.183736
@@ -3132,12 +3132,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@30"Precompile textbook_Prefix.pch309646865#309646869#0(0"0(0#0#52"/Users/gcoliadi/Dropbox/textbook/textbook_Prefix.pch8620875200#1806"    cd /Users/gcoliadi/Dropbox/textbook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-generated-files.hmap -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-own-target-headers.hmap -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-all-target-headers.hmap -iquote /Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/textbook-project-headers.hmap -F/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator -I/Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/include -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources/i386 -I/Users/gcoliadi/Dropbox/textbook/build/textbook.build/Debug-iphonesimulator/textbook.build/DerivedSources -c /Users/gcoliadi/Dropbox/textbook/textbook_Prefix.pch -o /var/folders/dP/dPKV0Q5WFsSEd1B38VPDGk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/textbook_Prefix-fcnkrqqzspxgtfbbhaibcvhmbxot/textbook_Prefix.pch.gch0#
 
 CTouch /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app
-s310596903.525184
-e310596903.574689
+s311112715.396323
+e311112715.407007
 r1
 xTouch
 x/Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app
-lSLF07#2@74"Touch /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app310596903#310596903#0(0"0(0#0#0"4231240#319"    cd /Users/Gus/Dropbox/textbook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app0#
+lSLF07#2@74"Touch /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app311112715#311112715#0(0"0(0#0#0"2499686336#319"    cd /Users/Gus/Dropbox/textbook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Gus/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app0#
 
 CTouch /Users/gcoliadi/Dropbox/textbook/build/Debug-iphonesimulator/textbook.app
 s309657935.109915
