@@ -2,8 +2,8 @@
 //  textbookAppDelegate.m
 //  textbook
 //
-//  Created by gcoliadi on 10/24/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Created by Gus Coliadis on 10/24/10.
+//  The Ohio State University
 //
 
 #import "textbookAppDelegate.h"
@@ -36,9 +36,20 @@
     return YES;
 }
 
+//Funtction for when the Home Button on the menu bar is pressed, the Index page is loaded.
 -(IBAction)goHome
 {
 	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
+}
+
+-(IBAction)leftArrow
+{
+	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
+}
+
+-(IBAction)rightArrow
+{
+	[webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:@"http://www.cse.ohio-state.edu/~colburn/758/mathjax_html/transform2.html"]]];
 }
 
 

@@ -2,8 +2,8 @@
 //  textbookAppDelegate.h
 //  textbook
 //
-//  Created by gcoliadi on 10/24/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Created by Gus Coliadis on 10/24/10.
+//  The Ohio State University
 //
 
 #import <UIKit/UIKit.h>
@@ -17,6 +17,8 @@
 @property (nonatomic, retain) IBOutlet UIWebView *webView;
 
 -(IBAction)goHome;
+-(IBAction)leftArrow;
+-(IBAction)rightArrow;
 
 @end
 

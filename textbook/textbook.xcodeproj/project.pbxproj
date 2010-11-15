@@ -12,6 +12,8 @@
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		CC206EAD1291A8450001BB58 /* BROKEN15.TTF in Resources */ = {isa = PBXBuildFile; fileRef = CC206EAC1291A8450001BB58 /* BROKEN15.TTF */; };
+		CC206EB71291ABDB0001BB58 /* PORCELAIN.TTF in Resources */ = {isa = PBXBuildFile; fileRef = CC206EB61291ABDB0001BB58 /* PORCELAIN.TTF */; };
 		CC44E21E1281F5B600AC4390 /* DIESEL.TTF in Resources */ = {isa = PBXBuildFile; fileRef = CC44E21D1281F5B500AC4390 /* DIESEL.TTF */; };
 		CC44E2331281F6F500AC4390 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = CC44E2321281F6F500AC4390 /* index.html */; };
 		CC44E2351281F70400AC4390 /* ElementsofEuclid_AF.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CC44E2341281F70400AC4390 /* ElementsofEuclid_AF.jpg */; };
@@ -123,6 +125,8 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* textbook_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = textbook_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* textbook-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "textbook-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		CC206EAC1291A8450001BB58 /* BROKEN15.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = BROKEN15.TTF; path = "../../Downloads/Broken15-1/Truetype/BROKEN15.TTF"; sourceTree = SOURCE_ROOT; };
+		CC206EB61291ABDB0001BB58 /* PORCELAIN.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = PORCELAIN.TTF; path = "../../Downloads/Porcelain-1/Truetype/PORCELAIN.TTF"; sourceTree = SOURCE_ROOT; };
 		CC44E21D1281F5B500AC4390 /* DIESEL.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = DIESEL.TTF; path = ../../Downloads/Diesel/Truetype/DIESEL.TTF; sourceTree = SOURCE_ROOT; };
 		CC44E2321281F6F500AC4390 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		CC44E2341281F70400AC4390 /* ElementsofEuclid_AF.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ElementsofEuclid_AF.jpg; sourceTree = "<group>"; };
@@ -279,6 +283,8 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CC206EB61291ABDB0001BB58 /* PORCELAIN.TTF */,
+				CC206EAC1291A8450001BB58 /* BROKEN15.TTF */,
 				CCF684EB1282033E00E25E45 /* Moksha.ttf */,
 				CC44E2361281F71100AC4390 /* PaperTile.jpg */,
 				CC44E2341281F70400AC4390 /* ElementsofEuclid_AF.jpg */,
@@ -550,6 +556,8 @@
 				CC44E2351281F70400AC4390 /* ElementsofEuclid_AF.jpg in Resources */,
 				CC44E2371281F71100AC4390 /* PaperTile.jpg in Resources */,
 				CCF684EC1282033E00E25E45 /* Moksha.ttf in Resources */,
+				CC206EAD1291A8450001BB58 /* BROKEN15.TTF in Resources */,
+				CC206EB71291ABDB0001BB58 /* PORCELAIN.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
